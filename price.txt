@@ -1,1 +1,2 @@
 price1
+price2
