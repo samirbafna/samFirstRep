@@ -2,4 +2,4 @@ price1
 price2
 price3
 Price on 17thJuly 2
-Price on 18thJuly 1
+Price on 18thJuly 2
