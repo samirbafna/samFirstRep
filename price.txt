@@ -3,4 +3,4 @@ price2
 price3
 Price on 17thJuly 2
 Price on 18thJuly 3
-Price on 7Aug
+Price on 7Aug #2
